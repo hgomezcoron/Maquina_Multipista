@@ -1,0 +1,10 @@
+q0,a,blank,q1,a,A,>
+q1,a,blank,q1,a,blank,>
+q1,b,B,q1,b,B,>
+q1,b,blank,q2,b,B,<
+q2,a,blank,q2,a,blank,<
+q2,b,B,q2,b,B,<
+q2,a,A,q0,a,A,>
+q0,b,B,q3,b,B,>
+q3,b,B,q3,b,B,>
+q3,blank,blank,qf,blank,blank,-
